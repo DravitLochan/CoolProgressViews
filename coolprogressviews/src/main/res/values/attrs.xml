@@ -33,4 +33,10 @@
         <attr name="movinArcColor" format="color"/>
     </declare-styleable>
 
+    <declare-styleable name="CircleWithProgressAmt">
+        <attr name="radius2" format="dimension"/>
+        <attr name="circleColor2" format="color"/>
+        <attr name="arcColor2" format="color"/>
+    </declare-styleable>
+
 </resources>
